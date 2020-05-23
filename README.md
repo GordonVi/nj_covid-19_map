@@ -3,8 +3,9 @@
 ## Scraping data from NJ.com
 
 - Goto nj.com and copy the list of towns and cases from "Atlantic County" to the town named "White."  (ex: https://www.nj.com/coronavirus/2020/05/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-may-20-2020.html)
+I use chrome and simple select and copy. 
 - Paste that into a month-day.html file in the "towndelta" folder.  
-- run "all_towns_csv.ps1"
+- run "all_towns_csv.ps1" - this converts that plain text html copy from NJ.com into a CSV.
 - Open the new CSV and review for errors.  
 - After the new CSV is reviewed and fixed, run "combine_csv.ps1" - this will combine all CSVs into a single combined.csv
 
