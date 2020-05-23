@@ -1,0 +1,36 @@
+LOCATION,TOTAL CASES,DEATHS,POPULATION
+Barnegat Light,3,<5,588
+Barnegat Twp.,222,10,"23,167"
+Bay Head,6,0,977
+Beach Haven,7,0,"1,191"
+Beachwood,111,<5,"11,270"
+Berkeley,565,76,"41,762"
+Brick,1024,100,"75,667"
+Eagleswood,10,0,"1,608"
+Harvey Cedars,0,0,340
+Island Heights,14,<5,"1,674"
+Jackson,780,49,"57,218"
+Lacey,199,11,"29,118"
+Lakehurst,34,<5,"2,700"
+Lakewood,2205,136,"104,157"
+Lavallette,9,<5,"1,853"
+Little Egg Harbor,139,8,"21,386"
+Long Beach Township,20,<5,"3,067"
+Manchester,643,90,"43,416"
+Mantoloking,0,0,257
+Ocean Gate,17,<5,"2,026"
+Ocean Twp.-Waretown,43,<5,"9,062"
+Pine Beach,10,0,"2,172"
+Plumsted,54,<5,"8,548"
+Point Pleasant Beach,35,5,"4,542"
+Point Pleasant Borough,219,19,"18,684"
+Seaside Heights,29,<5,"2,906"
+Seaside Park,7,<5,"1,545"
+Ship Bottom,7,<5,"1,146"
+South Toms River,74,<5,"3,777"
+Stafford,218,21,"27,542"
+Surf City,4,<5,"1,193"
+Toms River,1401,114,"93,717"
+Tuckerton,17,0,"3,375"
+Unknown,21,0,NA
+TOTAL,"8,147",664,"601,651"

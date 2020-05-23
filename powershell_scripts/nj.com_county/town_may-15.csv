@@ -1,0 +1,568 @@
+month,day,year,town,county,cases
+5,15,2020,Absecon,Atlantic,127
+5,15,2020,Atlantic City,Atlantic,177
+5,15,2020,Brigantine,Atlantic,19
+5,15,2020,Buena Borough,Atlantic,31
+5,15,2020,Buena Vista Township,Atlantic,25
+5,15,2020,Corbin City,Atlantic,1
+5,15,2020,Egg Harbor City,Atlantic,22
+5,15,2020,Egg Harbor Township,Atlantic,206
+5,15,2020,Estell Manor,Atlantic,7
+5,15,2020,Folsom,Atlantic,10
+5,15,2020,Galloway,Atlantic,204
+5,15,2020,Hamilton,Atlantic,118
+5,15,2020,Hammonton,Atlantic,271
+5,15,2020,Linwood,Atlantic,58
+5,15,2020,Longport,Atlantic,2
+5,15,2020,Margate,Atlantic,16
+5,15,2020,Mullica,Atlantic,19
+5,15,2020,Northfield,Atlantic,77
+5,15,2020,Pleasantville,Atlantic,149
+5,15,2020,Port Republic,Atlantic,3
+5,15,2020,Somers Point,Atlantic,34
+5,15,2020,Ventnor,Atlantic,34
+5,15,2020,Weymouth,Atlantic,10
+5,15,2020,Allendale,Bergen,60
+5,15,2020,Alpine,Bergen,22
+5,15,2020,Bergenfield,Bergen,751
+5,15,2020,Bogota,Bergen,157
+5,15,2020,Carlstadt,Bergen,96
+5,15,2020,Cliffside Park,Bergen,466
+5,15,2020,Closter,Bergen,78
+5,15,2020,Cresskill,Bergen,107
+5,15,2020,Demarest,Bergen,46
+5,15,2020,Dumont,Bergen,290
+5,15,2020,East Rutherford,Bergen,130
+5,15,2020,Edgewater,Bergen,126
+5,15,2020,Elmwood Park,Bergen,511
+5,15,2020,Emerson,Bergen,203
+5,15,2020,Englewood,Bergen,734
+5,15,2020,Englewood Cliffs,Bergen,54
+5,15,2020,Fair Lawn,Bergen,584
+5,15,2020,Fairview,Bergen,344
+5,15,2020,Fort Lee,Bergen,432
+5,15,2020,Franklin Lakes,Bergen,145
+5,15,2020,Garfield,Bergen,743
+5,15,2020,Glen Rock,Bergen,115
+5,15,2020,Hackensack,Bergen,1233
+5,15,2020,Harrington Park,Bergen,28
+5,15,2020,Hasbrouck Heights,Bergen,194
+5,15,2020,Haworth,Bergen,35
+5,15,2020,Hillsdale,Bergen,111
+5,15,2020,Ho-Ho-Kus,Bergen,44
+5,15,2020,Leonia,Bergen,106
+5,15,2020,Little Ferry,Bergen,188
+5,15,2020,Lodi,Bergen,632
+5,15,2020,Lyndhurst,Bergen,364
+5,15,2020,Mahwah,Bergen,254
+5,15,2020,Maywood,Bergen,222
+5,15,2020,Midland Park,Bergen,84
+5,15,2020,Montvale,Bergen,74
+5,15,2020,Moonachie,Bergen,66
+5,15,2020,New Milford,Bergen,420
+5,15,2020,North Arlington,Bergen,257
+5,15,2020,Northvale,Bergen,57
+5,15,2020,Norwood,Bergen,69
+5,15,2020,Oakland,Bergen,214
+5,15,2020,Old Tappan,Bergen,62
+5,15,2020,Oradell,Bergen,175
+5,15,2020,Palisades Park,Bergen,239
+5,15,2020,Paramus,Bergen,943
+5,15,2020,Park Ridge,Bergen,152
+5,15,2020,Ramsey,Bergen,125
+5,15,2020,Ridgefield,Bergen,184
+5,15,2020,Ridgefield Park,Bergen,258
+5,15,2020,Ridgewood,Bergen,283
+5,15,2020,River Edge,Bergen,132
+5,15,2020,River Vale,Bergen,115
+5,15,2020,Rochelle Park,Bergen,154
+5,15,2020,Rockleigh,Bergen,101
+5,15,2020,Rutherford,Bergen,183
+5,15,2020,Saddle Brook,Bergen,291
+5,15,2020,Saddle River,Bergen,73
+5,15,2020,South Hackensack,Bergen,57
+5,15,2020,Teaneck,Bergen,1020
+5,15,2020,Tenafly,Bergen,154
+5,15,2020,Teterboro,Bergen,5
+5,15,2020,Unknown,Bergen,403
+5,15,2020,Upper Saddle River,Bergen,51
+5,15,2020,Waldwick,Bergen,130
+5,15,2020,Wallington,Bergen,158
+5,15,2020,Washington Township,Bergen,98
+5,15,2020,Westwood,Bergen,191
+5,15,2020,Woodcliff Lake,Bergen,118
+5,15,2020,Wood-Ridge,Bergen,135
+5,15,2020,Wyckoff,Bergen,278
+5,15,2020,Bass River,Burlington,7
+5,15,2020,Beverly,Burlington,16
+5,15,2020,Bordentown City,Burlington,27
+5,15,2020,Bordentown Township,Burlington,65
+5,15,2020,Burlington City,Burlington,80
+5,15,2020,Burlington Township,Burlington,357
+5,15,2020,Chesterfield,Burlington,27
+5,15,2020,Cinnaminson,Burlington,89
+5,15,2020,Delanco,Burlington,35
+5,15,2020,Delran,Burlington,108
+5,15,2020,Eastampton,Burlington,47
+5,15,2020,Edgewater Park,Burlington,78
+5,15,2020,Evesham,Burlington,240
+5,15,2020,Fieldsboro,Burlington,5
+5,15,2020,Florence,Burlington,76
+5,15,2020,Hainesport,Burlington,30
+5,15,2020,Lumberton,Burlington,101
+5,15,2020,Mansfield,Burlington,54
+5,15,2020,Maple Shade,Burlington,194
+5,15,2020,Medford Lakes,Burlington,9
+5,15,2020,Medford Township,Burlington,90
+5,15,2020,Moorestown,Burlington,227
+5,15,2020,Mount Holly,Burlington,74
+5,15,2020,Mount Laurel,Burlington,202
+5,15,2020,New Hanover,Burlington,32
+5,15,2020,North Hanover,Burlington,30
+5,15,2020,Palmyra,Burlington,38
+5,15,2020,Pemberton Borough,Burlington,4
+5,15,2020,Pemberton Township,Burlington,324
+5,15,2020,Riverside,Burlington,64
+5,15,2020,Riverton,Burlington,5
+5,15,2020,Shamong,Burlington,19
+5,15,2020,Southampton,Burlington,51
+5,15,2020,Springfield,Burlington,14
+5,15,2020,Tabernacle,Burlington,20
+5,15,2020,Washington Township,Burlington,1
+5,15,2020,Westampton,Burlington,83
+5,15,2020,Willingboro,Burlington,520
+5,15,2020,Woodland,Burlington,225
+5,15,2020,Wrightstown,Burlington,7
+5,15,2020,Audubon,Camden,37
+5,15,2020,Audubon Park,Camden,2
+5,15,2020,Barrington,Camden,29
+5,15,2020,Bellmawr,Camden,72
+5,15,2020,Berlin Borough,Camden,32
+5,15,2020,Berlin Township,Camden,16
+5,15,2020,Brooklawn,Camden,18
+5,15,2020,Camden,Camden,1280
+5,15,2020,Cherry Hill,Camden,644
+5,15,2020,Chesilhurst,Camden,16
+5,15,2020,Clementon,Camden,44
+5,15,2020,Collingswood,Camden,51
+5,15,2020,Gibbsboro,Camden,4
+5,15,2020,Gloucester City,Camden,62
+5,15,2020,Gloucester Township,Camden,374
+5,15,2020,Haddon Heights,Camden,17
+5,15,2020,Haddon Township,Camden,60
+5,15,2020,Haddonfield,Camden,29
+5,15,2020,Hi-Nella,Camden,3
+5,15,2020,Laurel Springs,Camden,13
+5,15,2020,Lawnside,Camden,24
+5,15,2020,Lindenwold,Camden,225
+5,15,2020,Magnolia,Camden,17
+5,15,2020,Merchantville,Camden,31
+5,15,2020,Mount Ephraim,Camden,15
+5,15,2020,Oaklyn,Camden,20
+5,15,2020,Pennsauken,Camden,416
+5,15,2020,Pine Hill,Camden,72
+5,15,2020,Runnemede,Camden,47
+5,15,2020,Somerdale,Camden,33
+5,15,2020,Stratford,Camden,34
+5,15,2020,Unknown,Camden,7
+5,15,2020,Voorhees,Camden,297
+5,15,2020,Waterford,Camden,35
+5,15,2020,Winslow,Camden,334
+5,15,2020,Woodlynne,Camden,57
+5,15,2020,Avalon,Cape May,7
+5,15,2020,Cape May,Cape May,4
+5,15,2020,Cape May Point,Cape May,0
+5,15,2020,Dennis,Cape May,48
+5,15,2020,Lower Township,Cape May,161
+5,15,2020,Middle Township,Cape May,80
+5,15,2020,North Wildwood,Cape May,9
+5,15,2020,Ocean City,Cape May,33
+5,15,2020,Sea Isle City,Cape May,2
+5,15,2020,Stone Harbor,Cape May,1
+5,15,2020,Upper Township,Cape May,52
+5,15,2020,West Cape May,Cape May,3
+5,15,2020,West Wildwood,Cape May,3
+5,15,2020,Wildwood,Cape May,30
+5,15,2020,Wildwood Crest,Cape May,10
+5,15,2020,Woodbine,Cape May,45
+5,15,2020,Bridgeton,Cumberland,412
+5,15,2020,Commercial,Cumberland,17
+5,15,2020,Deerfield,Cumberland,23
+5,15,2020,Downe,Cumberland,4
+5,15,2020,Fairfield,Cumberland,38
+5,15,2020,Greenwich,Cumberland,3
+5,15,2020,Hopewell,Cumberland,29
+5,15,2020,Lawrence,Cumberland,27
+5,15,2020,Maurice River,Cumberland,13
+5,15,2020,Millville,Cumberland,260
+5,15,2020,Shiloh,Cumberland,0
+5,15,2020,Stow Creek,Cumberland,5
+5,15,2020,Unknown,Cumberland,1
+5,15,2020,Upper Deerfield,Cumberland,50
+5,15,2020,Vineland,Cumberland,565
+5,15,2020,Belleville,Essex,900
+5,15,2020,Bloomfield,Essex,985
+5,15,2020,Caldwell,Essex,102
+5,15,2020,Cedar Grove,Essex,380
+5,15,2020,East Orange,Essex,1701
+5,15,2020,Essex Fells,Essex,18
+5,15,2020,Fairfield,Essex,126
+5,15,2020,Glen Ridge,Essex,35
+5,15,2020,Gloucester,Essex,53
+5,15,2020,Irvington,Essex,1241
+5,15,2020,Livingston,Essex,433
+5,15,2020,Maplewood,Essex,272
+5,15,2020,Millburn,Essex,132
+5,15,2020,Montclair,Essex,388
+5,15,2020,Newark,Essex,6529
+5,15,2020,North Caldwell,Essex,39
+5,15,2020,Nutley,Essex,456
+5,15,2020,Orange,Essex,814
+5,15,2020,Roseland,Essex,80
+5,15,2020,South Orange,Essex,90
+5,15,2020,Verona,Essex,112
+5,15,2020,West Caldwell,Essex,196
+5,15,2020,West Orange,Essex,1074
+5,15,2020,Deptford,Gloucester,421
+5,15,2020,East Greenwich,Gloucester,47
+5,15,2020,Elk,Gloucester,26
+5,15,2020,Franklin,Gloucester,63
+5,15,2020,Glassboro,Gloucester,88
+5,15,2020,Greenwich,Gloucester,19
+5,15,2020,Harrison,Gloucester,43
+5,15,2020,Logan,Gloucester,31
+5,15,2020,Mantua,Gloucester,69
+5,15,2020,Monroe,Gloucester,202
+5,15,2020,National Park,Gloucester,13
+5,15,2020,Newfield,Gloucester,1
+5,15,2020,Paulsboro,Gloucester,45
+5,15,2020,Pitman,Gloucester,30
+5,15,2020,South Harrison,Gloucester,21
+5,15,2020,Swedesboro,Gloucester,26
+5,15,2020,Washington Township,Gloucester,242
+5,15,2020,Wenonah,Gloucester,12
+5,15,2020,West Deptford,Gloucester,116
+5,15,2020,Westville,Gloucester,32
+5,15,2020,Woodbury,Gloucester,62
+5,15,2020,Woodbury Heights,Gloucester,16
+5,15,2020,Woolwich,Gloucester,75
+5,15,2020,Bayonne,Hudson,956
+5,15,2020,East Newark,Hudson,69
+5,15,2020,Guttenberg,Hudson,196
+5,15,2020,Harrison,Hudson,361
+5,15,2020,Hoboken,Hudson,540
+5,15,2020,Jersey City,Hudson,6221
+5,15,2020,Kearny,Hudson,1127
+5,15,2020,North Bergen,Hudson,2364
+5,15,2020,Secaucus,Hudson,509
+5,15,2020,Union City,Hudson,3135
+5,15,2020,Weehawken,Hudson,293
+5,15,2020,West New York,Hudson,1946
+5,15,2020,Alexandria,Hunterdon,9
+5,15,2020,Bethlehem,Hunterdon,18
+5,15,2020,Bloomsbury,Hunterdon,5
+5,15,2020,Califon,Hunterdon,3
+5,15,2020,Clinton Town,Hunterdon,25
+5,15,2020,Clinton Township,Hunterdon,84
+5,15,2020,Delaware,Hunterdon,16
+5,15,2020,East Amwell,Hunterdon,13
+5,15,2020,Flemington,Hunterdon,55
+5,15,2020,Franklin,Hunterdon,13
+5,15,2020,Frenchtown,Hunterdon,6
+5,15,2020,Glen Gardner,Hunterdon,5
+5,15,2020,Hampton,Hunterdon,8
+5,15,2020,High Bridge,Hunterdon,19
+5,15,2020,Holland,Hunterdon,21
+5,15,2020,Kingwood,Hunterdon,15
+5,15,2020,Lambertville,Hunterdon,21
+5,15,2020,Lebanon Borough,Hunterdon,14
+5,15,2020,Lebanon Township,Hunterdon,14
+5,15,2020,Milford,Hunterdon,4
+5,15,2020,Raritan Township,Hunterdon,143
+5,15,2020,Readington,Hunterdon,62
+5,15,2020,Stockton,Hunterdon,0
+5,15,2020,Tewksbury,Hunterdon,19
+5,15,2020,Union,Hunterdon,153
+5,15,2020,West Amwell,Hunterdon,16
+5,15,2020,East Windsor,Mercer,493
+5,15,2020,Ewing,Mercer,503
+5,15,2020,Hamilton,Mercer,1201
+5,15,2020,Hightstown,Mercer,123
+5,15,2020,Hopewell Borough,Mercer,5
+5,15,2020,Hopewell Township,Mercer,92
+5,15,2020,Lawrence,Mercer,287
+5,15,2020,Pennington,Mercer,11
+5,15,2020,Princeton,Mercer,160
+5,15,2020,Robbinsville,Mercer,80
+5,15,2020,Trenton,Mercer,2180
+5,15,2020,West Windsor,Mercer,148
+5,15,2020,Carteret,Middlesex,601
+5,15,2020,Cranbury,Middlesex,43
+5,15,2020,Dunellen,Middlesex,181
+5,15,2020,East Brunswick,Middlesex,605
+5,15,2020,Edison,Middlesex,1638
+5,15,2020,Helmetta,Middlesex,35
+5,15,2020,Highland Park,Middlesex,140
+5,15,2020,Jamesburg,Middlesex,113
+5,15,2020,Metuchen,Middlesex,113
+5,15,2020,Middlesex,Middlesex,211
+5,15,2020,Milltown,Middlesex,72
+5,15,2020,Monroe,Middlesex,658
+5,15,2020,New Brunswick,Middlesex,1524
+5,15,2020,North Brunswick,Middlesex,816
+5,15,2020,Old Bridge,Middlesex,947
+5,15,2020,Perth Amboy,Middlesex,2039
+5,15,2020,Piscataway,Middlesex,780
+5,15,2020,Plainsboro,Middlesex,142
+5,15,2020,Sayreville,Middlesex,652
+5,15,2020,South Amboy,Middlesex,164
+5,15,2020,South Brunswick,Middlesex,431
+5,15,2020,South Plainfield,Middlesex,476
+5,15,2020,South River,Middlesex,260
+5,15,2020,Spotswood,Middlesex,89
+5,15,2020,Woodbridge,Middlesex,1715
+5,15,2020,Aberdeen,Monmouth,215
+5,15,2020,Allenhurst,Monmouth,5
+5,15,2020,Allentown,Monmouth,7
+5,15,2020,Asbury Park,Monmouth,178
+5,15,2020,Atlantic Highlands,Monmouth,30
+5,15,2020,Avon-by-the-Sea,Monmouth,12
+5,15,2020,Belmar,Monmouth,28
+5,15,2020,Bradley Beach,Monmouth,42
+5,15,2020,Brielle,Monmouth,27
+5,15,2020,Colts Neck,Monmouth,73
+5,15,2020,Deal,Monmouth,24
+5,15,2020,Eatontown,Monmouth,248
+5,15,2020,Englishtown,Monmouth,37
+5,15,2020,Fair Haven,Monmouth,22
+5,15,2020,Farmingdale,Monmouth,14
+5,15,2020,Freehold Borough,Monmouth,357
+5,15,2020,Freehold Township,Monmouth,592
+5,15,2020,Hazlet,Monmouth,255
+5,15,2020,Highlands,Monmouth,26
+5,15,2020,Holmdel,Monmouth,226
+5,15,2020,Howell,Monmouth,581
+5,15,2020,Interlaken,Monmouth,2
+5,15,2020,Keansburg,Monmouth,156
+5,15,2020,Keyport,Monmouth,84
+5,15,2020,Lake Como,Monmouth,16
+5,15,2020,Little Silver,Monmouth,34
+5,15,2020,Loch Arbour,Monmouth,1
+5,15,2020,Long Branch,Monmouth,425
+5,15,2020,Manalapan,Monmouth,437
+5,15,2020,Manasquan,Monmouth,30
+5,15,2020,Marlboro,Monmouth,418
+5,15,2020,Matawan,Monmouth,170
+5,15,2020,Middletown,Monmouth,602
+5,15,2020,Millstone,Monmouth,80
+5,15,2020,Monmouth Beach,Monmouth,19
+5,15,2020,Neptune City,Monmouth,53
+5,15,2020,Neptune Township,Monmouth,423
+5,15,2020,Ocean,Monmouth,263
+5,15,2020,Oceanport,Monmouth,58
+5,15,2020,Red Bank,Monmouth,171
+5,15,2020,Roosevelt,Monmouth,6
+5,15,2020,Rumson,Monmouth,32
+5,15,2020,Sea Bright,Monmouth,9
+5,15,2020,Sea Girt,Monmouth,13
+5,15,2020,Shrewsbury Borough,Monmouth,48
+5,15,2020,Shrewsbury Township,Monmouth,9
+5,15,2020,Spring Lake,Monmouth,13
+5,15,2020,Spring Lake Heights,Monmouth,17
+5,15,2020,Tinton Falls,Monmouth,182
+5,15,2020,Union Beach,Monmouth,39
+5,15,2020,Unknown,Monmouth,1
+5,15,2020,Upper Freehold,Monmouth,47
+5,15,2020,Wall,Monmouth,285
+5,15,2020,West Long Branch,Monmouth,58
+5,15,2020,Boonton,Morris,101
+5,15,2020,Boonton Township,Morris,74
+5,15,2020,Butler,Morris,86
+5,15,2020,Chatham Borough,Morris,54
+5,15,2020,Chatham Township,Morris,120
+5,15,2020,Chester Borough,Morris,7
+5,15,2020,Chester Township,Morris,41
+5,15,2020,Denville,Morris,145
+5,15,2020,Dover,Morris,627
+5,15,2020,East Hanover,Morris,126
+5,15,2020,Florham Park,Morris,119
+5,15,2020,Hanover,Morris,173
+5,15,2020,Harding,Morris,24
+5,15,2020,Jefferson,Morris,208
+5,15,2020,Kinnelon,Morris,68
+5,15,2020,Lincoln Park,Morris,305
+5,15,2020,Long Hill,Morris,44
+5,15,2020,Madison,Morris,126
+5,15,2020,Mendham Borough,Morris,61
+5,15,2020,Mendham Township,Morris,38
+5,15,2020,Mine Hill,Morris,58
+5,15,2020,Montville,Morris,209
+5,15,2020,Morris Plains,Morris,55
+5,15,2020,Morris Township,Morris,269
+5,15,2020,Morristown,Morris,487
+5,15,2020,Mount Arlington,Morris,43
+5,15,2020,Mount Olive,Morris,238
+5,15,2020,Mountain Lakes,Morris,19
+5,15,2020,Netcong,Morris,28
+5,15,2020,Parsippany,Morris,678
+5,15,2020,Pequannock,Morris,189
+5,15,2020,Randolph,Morris,252
+5,15,2020,Riverdale,Morris,36
+5,15,2020,Rockaway Borough,Morris,94
+5,15,2020,Rockaway Township,Morris,235
+5,15,2020,Roxbury,Morris,235
+5,15,2020,Victory Gardens,Morris,33
+5,15,2020,Washington Township,Morris,102
+5,15,2020,Wharton,Morris,149
+5,15,2020,Barnegat,Ocean,214
+5,15,2020,Barnegat Light,Ocean,2
+5,15,2020,Bay Head,Ocean,6
+5,15,2020,Beach Haven,Ocean,7
+5,15,2020,Beachwood,Ocean,100
+5,15,2020,Berkeley,Ocean,540
+5,15,2020,Brick,Ocean,980
+5,15,2020,Eagleswood,Ocean,7
+5,15,2020,Harvey Cedars,Ocean,0
+5,15,2020,Island Heights,Ocean,12
+5,15,2020,Jackson,Ocean,754
+5,15,2020,Lacey,Ocean,192
+5,15,2020,Lakehurst,Ocean,32
+5,15,2020,Lakewood,Ocean,2076
+5,15,2020,Lavallette,Ocean,9
+5,15,2020,Little Egg Harbor,Ocean,119
+5,15,2020,Long Beach Township,Ocean,20
+5,15,2020,Manchester,Ocean,605
+5,15,2020,Mantoloking,Ocean,0
+5,15,2020,Ocean Gate,Ocean,16
+5,15,2020,Ocean Township,Ocean,42
+5,15,2020,Pine Beach,Ocean,10
+5,15,2020,Plumsted,Ocean,52
+5,15,2020,Point Pleasant Beach,Ocean,35
+5,15,2020,Point Pleasant Borough,Ocean,209
+5,15,2020,Seaside Heights,Ocean,29
+5,15,2020,Seaside Park,Ocean,7
+5,15,2020,Ship Bottom,Ocean,7
+5,15,2020,South Toms River,Ocean,73
+5,15,2020,Stafford,Ocean,214
+5,15,2020,Surf City,Ocean,4
+5,15,2020,Toms River,Ocean,1325
+5,15,2020,Tuckerton,Ocean,16
+5,15,2020,Unknown,Ocean,0
+5,15,2020,Bloomingdale,Passaic,181
+5,15,2020,Clifton,Passaic,2559
+5,15,2020,Haledon,Passaic,293
+5,15,2020,Hawthorne,Passaic,399
+5,15,2020,Little Falls,Passaic,137
+5,15,2020,North Haledon,Passaic,170
+5,15,2020,Passaic,Passaic,2791
+5,15,2020,Paterson,Passaic,6271
+5,15,2020,Pompton Lakes,Passaic,211
+5,15,2020,Prospect Park,Passaic,285
+5,15,2020,Ringwood,Passaic,115
+5,15,2020,Totowa,Passaic,273
+5,15,2020,Wanaque,Passaic,265
+5,15,2020,Wayne,Passaic,1207
+5,15,2020,West Milford,Passaic,356
+5,15,2020,Woodland Park,Passaic,331
+5,15,2020,Alloway,Salem,10
+5,15,2020,Carneys Point,Salem,104
+5,15,2020,Elmer,Salem,7
+5,15,2020,Lower Alloways Creek,Salem,8
+5,15,2020,Mannington,Salem,6
+5,15,2020,Oldsman,Salem,8
+5,15,2020,Penns Grove,Salem,103
+5,15,2020,Pennsville,Salem,31
+5,15,2020,Pilesgrove,Salem,11
+5,15,2020,Pittsgrove,Salem,30
+5,15,2020,Quinton,Salem,5
+5,15,2020,Salem,Salem,24
+5,15,2020,Upper Pittsgrove,Salem,65
+5,15,2020,Woodstown,Salem,22
+5,15,2020,Bedminster,Somerset,35
+5,15,2020,Bernards,Somerset,216
+5,15,2020,Bernardsville,Somerset,59
+5,15,2020,Bound Brook,Somerset,285
+5,15,2020,Branchburg,Somerset,76
+5,15,2020,Bridgewater,Somerset,429
+5,15,2020,Far Hills,Somerset,3
+5,15,2020,Franklin,Somerset,1149
+5,15,2020,Green Brook,Somerset,120
+5,15,2020,Hillsborough,Somerset,286
+5,15,2020,Manville,Somerset,134
+5,15,2020,Millstone,Somerset,2
+5,15,2020,Montgomery,Somerset,96
+5,15,2020,North Plainfield,Somerset,288
+5,15,2020,Peapack-Gladstone,Somerset,39
+5,15,2020,Raritan,Somerset,90
+5,15,2020,Rocky Hill,Somerset,5
+5,15,2020,Somerville,Somerset,117
+5,15,2020,South Bound Brook,Somerset,55
+5,15,2020,Warren,Somerset,109
+5,15,2020,Watchung,Somerset,76
+5,15,2020,Andover Borough,Sussex,2
+5,15,2020,Andover Township,Sussex,198
+5,15,2020,Branchville,Sussex,4
+5,15,2020,Byram,Sussex,40
+5,15,2020,Frankford,Sussex,77
+5,15,2020,Franklin,Sussex,43
+5,15,2020,Fredon,Sussex,17
+5,15,2020,Green,Sussex,13
+5,15,2020,Hamburg,Sussex,23
+5,15,2020,Hampton,Sussex,28
+5,15,2020,Hardyston,Sussex,48
+5,15,2020,Hopatcong,Sussex,108
+5,15,2020,Lafayette,Sussex,9
+5,15,2020,Montague,Sussex,22
+5,15,2020,Newton,Sussex,89
+5,15,2020,Ogdensburg,Sussex,15
+5,15,2020,Sandyston,Sussex,6
+5,15,2020,Sparta,Sussex,98
+5,15,2020,Stanhope,Sussex,20
+5,15,2020,Stillwater,Sussex,11
+5,15,2020,Sussex Borough,Sussex,6
+5,15,2020,Vernon,Sussex,119
+5,15,2020,Walpack,Sussex,54
+5,15,2020,Wantage,Sussex,54
+5,15,2020,Berkeley Heights,Union,236
+5,15,2020,Clark,Union,211
+5,15,2020,Cranford,Union,423
+5,15,2020,Elizabeth,Union,4052
+5,15,2020,Fanwood,Union,86
+5,15,2020,Garwood,Union,41
+5,15,2020,Hillside,Union,610
+5,15,2020,Kenilworth,Union,140
+5,15,2020,Linden,Union,1226
+5,15,2020,Mountainside,Union,67
+5,15,2020,New Providence,Union,146
+5,15,2020,Plainfield,Union,1957
+5,15,2020,Rahway,Union,686
+5,15,2020,Roselle,Union,576
+5,15,2020,Roselle Park,Union,248
+5,15,2020,Scotch Plains,Union,248
+5,15,2020,Springfield,Union,219
+5,15,2020,Summit,Union,190
+5,15,2020,Union,Union,1654
+5,15,2020,Westfield,Union,257
+5,15,2020,Winfield,Union,5
+5,15,2020,Allamuchy,Warren,23
+5,15,2020,Alpha,Warren,15
+5,15,2020,Belvidere,Warren,22
+5,15,2020,Blairstown,Warren,17
+5,15,2020,Franklin,Warren,14
+5,15,2020,Frelinghuysen,Warren,84
+5,15,2020,Greenwich,Warren,52
+5,15,2020,Hackettstown,Warren,105
+5,15,2020,Hardwick,Warren,8
+5,15,2020,Harmony,Warren,14
+5,15,2020,Hope,Warren,16
+5,15,2020,Independence,Warren,26
+5,15,2020,Knowlton,Warren,10
+5,15,2020,Liberty,Warren,14
+5,15,2020,Lopatcong,Warren,260
+5,15,2020,Mansfield,Warren,109
+5,15,2020,Oxford,Warren,6
+5,15,2020,Phillipsburg,Warren,116
+5,15,2020,Pohatcong,Warren,20
+5,15,2020,Washington Borough,Warren,49
+5,15,2020,Washington Township,Warren,39
+5,15,2020,White,Warren,50
