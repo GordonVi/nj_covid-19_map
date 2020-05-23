@@ -21,4 +21,15 @@ This will create a lot of CSVs and an HTML table file.
 
 ## What I do with this  
   
-After all this, I upload to my website and manually make some snapshots and write a title. I then post on r/newjersey. 
+- Upload to my website and manually make some snapshots and write a title.
+- Post on r/newjersey. 
+
+## Resources I did not add  
+- My php site code (It's nothing fancy)  
+
+## Libraries I use  
+- Hover.css (website)
+- chart.js (website)
+- I didn't make the base SVG file. That came from a wiki.
+- Data comes from NJ.com's report on daily cases per town in NJ.
+
