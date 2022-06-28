@@ -27,7 +27,7 @@ This will create a lot of CSVs and an HTML table file.
 
 ## Resources I did not add  
 - My php site code (It's nothing fancy)  
-- http://virasawmi.com - I plan to collapse this after Covid-19 becomes unpopular. 
+- http://virasawmi.com/gordon/covid-19/ - (Ended Updates Sept/2021, hosted as a legacy reference). 
 
 ## Libraries I use  
 - Hover.css (website)
